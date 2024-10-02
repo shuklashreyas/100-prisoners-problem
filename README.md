@@ -1,4 +1,4 @@
-# FinanceAI: Prisoner Box Simulation
+# Prisoner Box Simulation
 
 This project simulates a well-known probability problem often referred to as the "Prisoner's Box Problem." The goal is to evaluate how often a group of prisoners successfully find their numbers within a set number of box openings. The problem is based on a cyclical search where each prisoner is allowed to open up to half of the boxes to find their number.
 
